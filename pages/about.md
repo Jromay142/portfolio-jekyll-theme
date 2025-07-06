@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about
+---
+
 # About Me
 Jake Romay - South London\
 Automotive Engineering - University of Sussex\
